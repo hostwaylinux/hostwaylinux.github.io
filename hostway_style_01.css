@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Single+Day&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&family=Nanum+Pen+Script&display=swap");
+
+.hostway-style-01 p {
+  font-family: "Single Day", "Nanum Pen Script", "Nanum Gothic Coding";
+}
+
+.hostway-style-01 pre {
+  border: 1px solid;
+}
+
+.hostway-style-01 pre code {
+  font-family: "Nanum Gothic Coding";
+  font-weight: bold;
+}
+
+.hostway-style-01 table {
+  border-collapse: collapse;
+}
+
+.hostway-style-01 th {
+  background-color: #04aa6d;
+  color: white;
+  text-align: center;
+  font-family: "Nanum Gothic Coding";
+  font-weight: bold;
+}
+
+.hostway-style-01 td {
+  border-bottom: 1px solid black;
+  font-family: "Nanum Gothic Coding";
+  text-align: center;
+}
+
+.hostway-style-01 code span.al {
+  color: #ff0000;
+  font-weight: bold;
+} /* Alert */
+.hostway-style-01 code span.an {
+  color: #60a0b0;
+  font-weight: bold;
+  font-style: italic;
+} /* Annotation */
+.hostway-style-01 code span.at {
+  color: #7d9029;
+} /* Attribute */
+.hostway-style-01 code span.bn {
+  color: #40a070;
+} /* BaseN */
+.hostway-style-01 code span.bu {
+} /* BuiltIn */
+.hostway-style-01 code span.cf {
+  color: #007020;
+  font-weight: bold;
+} /* ControlFlow */
+.hostway-style-01 code span.ch {
+  color: #4070a0;
+} /* Char */
+.hostway-style-01 code span.cn {
+  color: #880000;
+} /* Constant */
+.hostway-style-01 code span.co {
+  color: #60a0b0;
+  font-style: italic;
+} /* Comment */
+.hostway-style-01 code span.cv {
+  color: #60a0b0;
+  font-weight: bold;
+  font-style: italic;
+} /* CommentVar */
+.hostway-style-01 code span.do {
+  color: #ba2121;
+  font-style: italic;
+} /* Documentation */
+.hostway-style-01 code span.dt {
+  color: #902000;
+} /* DataType */
+.hostway-style-01 code span.dv {
+  color: #40a070;
+} /* DecVal */
+.hostway-style-01 code span.er {
+  color: #ff0000;
+  font-weight: bold;
+} /* Error */
+.hostway-style-01 code span.ex {
+} /* Extension */
+.hostway-style-01 code span.fl {
+  color: #40a070;
+} /* Float */
+.hostway-style-01 code span.fu {
+  color: #06287e;
+} /* Function */
+.hostway-style-01 code span.im {
+} /* Import */
+.hostway-style-01 code span.in {
+  color: #60a0b0;
+  font-weight: bold;
+  font-style: italic;
+} /* Information */
+.hostway-style-01 code span.kw {
+  color: #007020;
+  font-weight: bold;
+} /* Keyword */
+.hostway-style-01 code span.op {
+  color: #666666;
+} /* Operator */
+.hostway-style-01 code span.ot {
+  color: #007020;
+} /* Other */
+.hostway-style-01 code span.pp {
+  color: #bc7a00;
+} /* Preprocessor */
+.hostway-style-01 code span.sc {
+  color: #4070a0;
+} /* SpecialChar */
+.hostway-style-01 code span.ss {
+  color: #bb6688;
+} /* SpecialString */
+.hostway-style-01 code span.st {
+  color: #4070a0;
+} /* String */
+.hostway-style-01 code span.va {
+  color: #19177c;
+} /* Variable */
+.hostway-style-01 code span.vs {
+  color: #4070a0;
+} /* VerbatimString */
+.hostway-style-01 code span.wa {
+  color: #60a0b0;
+  font-weight: bold;
+  font-style: italic;
+} /* Warning */
+.display.math {
+  display: block;
+  text-align: center;
+  margin: 0.5rem auto;
+}
